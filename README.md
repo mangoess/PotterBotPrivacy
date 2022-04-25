@@ -13,7 +13,8 @@ The only data collected through linking is:
  - Patronus
  - Wand Core
  - Wand Wood
- - Wand Size (Not yet disclosed to the user as of 24/04/22)
+ - Wand Size
+ - Date Joined
 
 This is the only data saved on our servers and all other data is from discord and how you interact with the bot itself
 Keep in mind that you should be careful to give out your Bearer token in a public chat as it may grant access to attackers that can rack up your personal information, things such as your name, email address, date of birth, country of residence and UUID can be leaked by just the Bearer Token (This applies for discord as well!) But Potterbot does not collect, save, or utilise any of these details.
